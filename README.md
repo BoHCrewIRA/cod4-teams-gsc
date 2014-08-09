@@ -1,7 +1,7 @@
 CoD4 anti-teamstacking mod
 =============
 
-This mod auto-switches players who are trying to join a team that has already more players than the oponent team.<br>
+This mod auto-switches players who are trying to join a team that has already more players than the opponent team.<br>
 If the teams are balanced, changing teams is not possible but a new player can join either team as he wishes.
 If the teams are unbalanced (+- 2) default autobalance procedure will balance teams.
 
